@@ -2,7 +2,7 @@
 
 ### <a href="http://monkeyhappy.kro.kr/"> ![key](https://github.com/KwonYeJun/KwonYeJun/assets/124134155/8b151e0a-890b-4a3b-93ef-3812c930c92a)</a>
 
-![아이콘](key.ico)
+<img src="key.ico" alt="아이콘" style="width:100px; height:100px;">
 
 
 <!--

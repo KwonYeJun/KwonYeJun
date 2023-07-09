@@ -11,11 +11,11 @@ console.log("This is KwonYeJun")  |  console.log("This is TOY") -->
     <br>
 
 
-    <a href="https://mymain-e6d56.web.app/">👋 console.log("This is KwonYeJun") <img src="logo.ico" alt="아이콘" style="width:45px; height:35px;"></a>
+ <a href="https://mymain-e6d56.web.app/"> 👋 console.log("This is KwonYeJun") <img src="logo.ico" alt="아이콘" style="width:45px; height:35px;"></a>  
 
     <br>
 
-    <a href="http://monkeyhappy.kro.kr/">⚡ console.log("This is TOY") <img src="key.ico" alt="아이콘" style="width:25px; height:25px;"></a>
+  <a href="http://monkeyhappy.kro.kr/">⚡ console.log("This is TOY") <img src="key.ico" alt="아이콘" style="width:25px; height:25px;"></a>
 
   </div>
   <div style="text-align: center;">

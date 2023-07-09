@@ -10,7 +10,7 @@ console.log("This is KwonYeJun")  |  console.log("This is TOY") -->
 ----
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonYeJun&show_icons=true&theme=radical)](https://github.com/KwonYeJun/github-readme-stats)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonYeJun&layout=compact=true&theme=radical)
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-00F4F3?style=flat-square&logo=react&logoColor=white"/>

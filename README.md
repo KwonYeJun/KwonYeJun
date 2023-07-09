@@ -3,8 +3,31 @@
 console.log("This is KwonYeJun")  |  console.log("This is TOY") -->
 # KwonYeJun is a ✨ _special_ ✨ 
 
+<div style="display: flex; justify-content: center;">
+  <div style="text-align: center;">
+   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKwonYeJun&count_bg=%234295B1&title_bg=%2332E29F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=KwonYeJun)](https://solved.ac/KwonYeJun)
+
+    <br>
 
 
+    <a href="https://mymain-e6d56.web.app/">👋 console.log("This is KwonYeJun") <img src="logo.ico" alt="아이콘" style="width:45px; height:35px;"></a>
+
+    <br>
+
+    <a href="http://monkeyhappy.kro.kr/">⚡ console.log("This is TOY") <img src="key.ico" alt="아이콘" style="width:25px; height:25px;"></a>
+
+  </div>
+  <div style="text-align: center;">
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonYeJun&show_icons=true&theme=radical)](https://github.com/KwonYeJun/github-readme-stats)
+
+
+  </div>
+</div>
+
+
+<!-- <div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKwonYeJun&count_bg=%234295B1&title_bg=%2332E29F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=KwonYeJun)](https://solved.ac/KwonYeJun)
 
@@ -12,12 +35,14 @@ console.log("This is KwonYeJun")  |  console.log("This is TOY") -->
  <br>
  <a href="http://monkeyhappy.kro.kr/">⚡ console.log("This is TOY") <img src="key.ico" alt="아이콘" style="width:25px; height:25px;"></a>
 
+</div>
+
 <div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonYeJun&show_icons=true&theme=radical)](https://github.com/KwonYeJun/github-readme-stats)
 
 
-</div>
+</div> -->
 
 
 

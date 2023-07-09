@@ -6,8 +6,19 @@ console.log("This is KwonYeJun")  |  console.log("This is TOY") -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKwonYeJun&count_bg=%234295B1&title_bg=%2332E29F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <!-- <a href="https://mymain-e6d56.web.app/"> 👋 console.log("This is KwonYeJun") <img src="logo.ico" alt="아이콘" style="width:45px; height:35px;"></a>  <a href="http://monkeyhappy.kro.kr/">⚡ console.log("This is TOY") <img src="key.ico" alt="아이콘" style="width:25px; height:25px;"></a> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonYeJun&show_icons=true&theme=radical)](https://github.com/KwonYeJun/github-readme-stats) -->
 
-  | <a href="https://mymain-e6d56.web.app/">👋 console.log("This is KwonYeJun") <img src="logo.ico" alt="아이콘" style="width:45px; height:35px;"></a> | <a href="http://monkeyhappy.kro.kr/">⚡ console.log("This is TOY") <img src="key.ico" alt="아이콘" style="width:25px; height:25px;"></a> | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonYeJun&show_icons=true&theme=radical)](https://github.com/KwonYeJun/github-readme-stats) |
+ <style>
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: none;
+}
+</style>
+
+| <a href="https://mymain-e6d56.web.app/">👋 console.log("This is KwonYeJun") <img src="logo.ico" alt="아이콘" style="width:45px; height:35px;"></a> | <a href="http://monkeyhappy.kro.kr/">⚡ console.log("This is TOY") <img src="key.ico" alt="아이콘" style="width:25px; height:25px;"></a> | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonYeJun&show_icons=true&theme=radical)](https://github.com/KwonYeJun/github-readme-stats) |
 | ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+
 
 ----
 

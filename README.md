@@ -26,7 +26,6 @@ console.log("This is KwonYeJun")  |  console.log("This is TOY") -->
 <img src="https://img.shields.io/badge/AWS-FFCA28?style=flat-square&logo=AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-00F4F3?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nestjs-E0234E?style=flat-square&logo=Nestjs&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>

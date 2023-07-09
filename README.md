@@ -3,9 +3,9 @@
 console.log("This is KwonYeJun")  |  console.log("This is TOY") -->
 # KwonYeJun is a ✨ _special_ ✨ 
 
-<div style="display: flex; flex-direction: column; justify-content: center;">
-  <div style="text-align: center;">
-   
+<div style="display: flex; justify-content: center;">
+  <div style="text-align: center; margin-right: 20px;">
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKwonYeJun&count_bg=%234295B1&title_bg=%2332E29F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=KwonYeJun)](https://solved.ac/KwonYeJun) -->

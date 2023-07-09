@@ -1,10 +1,17 @@
-### <a href="https://mymain-e6d56.web.app/">console.log("This is KwonYeJun") 👋</a>
+<div style="display: flex;">
+  <div style="flex: 1;">
+    ### [console.log("This is KwonYeJun") 👋](https://mymain-e6d56.web.app/)
+  </div>
+  <div style="flex: 1;">
+    ### [![아이콘](key.ico)](http://monkeyhappy.kro.kr/)
+  </div>
+</div>
 
-### <a href="http://monkeyhappy.kro.kr/"> ![key](https://github.com/KwonYeJun/KwonYeJun/assets/124134155/8b151e0a-890b-4a3b-93ef-3812c930c92a)</a>
-
-<img src="key.ico" alt="아이콘" style="width:100px; height:100px;">
 
 
+
+
+----
 <!--
 **KwonYeJun/KwonYeJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

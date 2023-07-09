@@ -1,5 +1,6 @@
-### console.log("This is KwonYeJun") 👋
+### <a href="https://mymain-e6d56.web.app/">console.log("This is KwonYeJun") 👋</a>
 
+### <a href="http://monkeyhappy.kro.kr/"> ![key](https://github.com/KwonYeJun/KwonYeJun/assets/124134155/8b151e0a-890b-4a3b-93ef-3812c930c92a)</a>
 
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
 <img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>

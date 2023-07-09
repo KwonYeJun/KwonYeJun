@@ -5,9 +5,9 @@ console.log("This is KwonYeJun")  |  console.log("This is TOY") -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonYeJun&show_icons=true&theme=radical)](https://github.com/KwonYeJun/github-readme-stats)
 
 
- <a href="https://mymain-e6d56.web.app/"> 👋 console.log("This is KwonYeJun") &nbsp;&nbsp;&nbsp;&nbsp;<img src="logo.ico" alt="아이콘" style="width:45px; height:35px;"></a>  
+ <a href="https://mymain-e6d56.web.app/"> 👋 console.log("This is KwonYeJun") <img src="logo.ico" alt="아이콘" style="width:45px; height:35px;"></a>  
 
-  <a href="http://monkeyhappy.kro.kr/">⚡ console.log("This is TOY") &nbsp;&nbsp;&nbsp;&nbsp;<img src="key.ico" alt="아이콘" style="width:25px; height:25px;"></a>
+  <a href="http://monkeyhappy.kro.kr/">⚡ console.log("This is TOY") <img src="key.ico" alt="아이콘" style="width:25px; height:25px;"></a>
   
 
 
@@ -15,7 +15,7 @@ console.log("This is KwonYeJun")  |  console.log("This is TOY") -->
 
 ----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonYeJun&layout=compact&theme=radical)](https://github.com/KwonYeJun/github-readme-stats)<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonYeJun&layout=compact&theme=radical)](https://github.com/KwonYeJun/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-00F4F3?style=flat-square&logo=react&logoColor=white"/>
 
 

@@ -6,7 +6,7 @@ console.log("This is KwonYeJun")  |  console.log("This is TOY") -->
 <div style="display: flex; justify-content: center;">
   <div style="text-align: center; margin-right: 20px;">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKwonYeJun&count_bg=%234295B1&title_bg=%2332E29F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKwonYeJun&count_bg=%234295B1&title_bg=%2332E29F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonYeJun&show_icons=true&theme=radical)](https://github.com/KwonYeJun/github-readme-stats)
 
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=KwonYeJun)](https://solved.ac/KwonYeJun) -->
 
@@ -19,7 +19,7 @@ console.log("This is KwonYeJun")  |  console.log("This is TOY") -->
   </div>
   <div style="text-align: center;">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKwonYeJun&count_bg=%234295B1&title_bg=%2332E29F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonYeJun&show_icons=true&theme=radical)](https://github.com/KwonYeJun/github-readme-stats)
+
 
 
 

@@ -3,8 +3,8 @@
 console.log("This is KwonYeJun")  |  console.log("This is TOY") -->
 # KwonYeJun is a ✨ _special_ ✨ 
 
-###  <a href="https://mymain-e6d56.web.app/">👋 console.log("This is KwonYeJun") <img src="logo.gif" alt="아이콘" style="width:25px; height:25px;">
-</a>
+###  <a href="https://mymain-e6d56.web.app/">👋 console.log("This is KwonYeJun")
+</a> <img src="logo.gif" alt="아이콘" style="width:25px; height:25px;">
 
 ###  <a href="http://monkeyhappy.kro.kr/">⚡ console.log("This is TOY")<img src="key.ico" alt="아이콘" style="width:25px; height:25px;"></a>
 ----

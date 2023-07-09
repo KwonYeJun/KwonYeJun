@@ -13,7 +13,7 @@ console.log("This is KwonYeJun")  |  console.log("This is TOY") -->
 
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-00F4F3?style=flat-square&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-00F4F3?style=flat-square&logo=react&logoColor=white"/>
 <!--
 **KwonYeJun/KwonYeJun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

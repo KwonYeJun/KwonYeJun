@@ -5,7 +5,9 @@ console.log("This is KwonYeJun")  |  console.log("This is TOY") -->
 
 
 <a href="https://mymain-e6d56.web.app/"> 👋 console.log("This is KwonYeJun") <img src="logo.ico" alt="아이콘" style="width:45px; height:35px;"></a>
-<a href="http://thisisme.r-e.kr/">🌱 console.log("New Page This is Me")  </a><img src="key.ico" alt="아이콘" style="width:25px; height:25px;">
+
+<a href="http://thisisme.r-e.kr/">🌱 console.log("New Page This is Me")  </a><img src="new.png" alt="아이콘" style="width:25px; height:25px;">
+
 <a href="http://monkeyhappy.kro.kr/">⚡ console.log("This is TOY")  </a><img src="key.ico" alt="아이콘" style="width:25px; height:25px;">
 
 

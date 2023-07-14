@@ -10,7 +10,7 @@ console.log("This is KwonYeJun")  |  console.log("This is TOY") -->
 
 <a href="http://monkeyhappy.kro.kr/">⚡ console.log("This is TOY")  </a><img src="key.ico" alt="아이콘" style="width:25px; height:25px;">
 
-
+<a href="https://www.notion.so/2d02cda7542749a6bd1ef41a29c83677">💬 console.log("This is Introduction") 😄 </a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonYeJun&show_icons=true&theme=radical)](https://github.com/KwonYeJun/github-readme-stats)
 

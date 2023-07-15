@@ -12,6 +12,9 @@ console.log("This is KwonYeJun")  |  console.log("This is TOY") -->
 
 <a href="https://www.notion.so/2d02cda7542749a6bd1ef41a29c83677">💬 console.log("This is Introduction") 😄 </a>
 
+<a href="https://blog.naver.com/sag7002">🔭 console.log("This is Dev-Log") 🤔 </a>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonYeJun&show_icons=true&theme=radical)](https://github.com/KwonYeJun/github-readme-stats)
 
 

@@ -3,12 +3,12 @@
 console.log("This is KwonYeJun")  |  console.log("This is TOY") -->
 # KwonYeJun is a ✨ _special_ ✨ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKwonYeJun&count_bg=%234295B1&title_bg=%2332E29F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-
+ <!--
 <a href="https://mymain-e6d56.web.app/"> 👋 console.log("This is KwonYeJun") <img src="logo.ico" alt="아이콘" style="width:45px; height:35px;"></a>
 
-<a href="http://thisisme.r-e.kr/">🌱 console.log("New Page This is Me")  </a><img src="new.png" alt="아이콘" style="width:25px; height:25px;">
+<a href="http://thisisme.r-e.kr/">🌱 console.log("New Page This is Me")  </a><img src="new.png" alt="아이콘" style="width:25px; height:25px;"> -->
 
-<a href="https://www.keytypers.com/">⚡ console.log("This is TOY")  </a><img src="key.ico" alt="아이콘" style="width:25px; height:25px;">
+<a href="https://www.thezd.net/">⚡ console.log("TheZD")  </a><img src="key.ico" alt="아이콘" style="width:25px; height:25px;">
 
 <a href="https://www.notion.so/2d02cda7542749a6bd1ef41a29c83677">💬 console.log("This is Introduction") 😄 </a>
 

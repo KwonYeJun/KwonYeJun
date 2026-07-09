@@ -15,7 +15,7 @@ console.log("This is KwonYeJun")  |  console.log("This is TOY") -->
 <!-- <a href="https://blog.naver.com/sag7002">🔭 console.log("This is Dev-Log") 🤔 </a> -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KwonYeJun&show_icons=true&theme=radical)](https://github.com/KwonYeJun/github-readme-stats)
+
 
 
 
@@ -23,7 +23,7 @@ console.log("This is KwonYeJun")  |  console.log("This is TOY") -->
 
 ----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KwonYeJun&layout=compact&theme=radical)](https://github.com/KwonYeJun/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 ##  Skill  📫
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/></a>
